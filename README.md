@@ -1,4 +1,4 @@
-# vite2+vue3+ts+pinia企业级脚手架
+# vite2+vue3+ts+pinia企业级脚手架模板
 
 -  Vite2+Vue3+Typescript 搭建开发环境
 - 安装使用vite2
